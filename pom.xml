@@ -40,5 +40,10 @@
             <artifactId>springdoc-openapi-ui</artifactId>
             <version>1.5.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.mob41.blapi</groupId>
+            <artifactId>broadlink-java-api</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 </project>
